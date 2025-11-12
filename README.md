@@ -9,7 +9,7 @@
 
 - 🌱 Recientemente estoy aprendiendo **NestJS**
 
-- 👨‍💻 Puedes ver todos mis poyectos en <a href="https://martel.vercel.app">https://martel.vercel.app</a>
+- 👨‍💻 Puedes ver todos mis poyectos en <a href="https://marteldev.com">https://marteldev.com</a>
 
 - 💬 Pregúntame sobre **Next.js, React.Js, Node.Js, Sequelize.Js, PostgreSQL, JavaScript, Express.js, Redux**
 
