@@ -1,33 +1,121 @@
-<h1 align="center">Hola👋, Soy Daniel Martel</h1>
-<h3 align="center">Soy de Perú y me apasiona la Programación y el ensamblaje de PC</h3>
+<!-- Header animado -->
+<div align="center">
+  
+  ![Daniel Martel](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Daniel%20Martel%20👋&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cterryc&label=Profile%20views&color=0e75b6&style=flat" alt="cterryc" /> </p>
+  ### 🚀 Desarrollador Full Stack | 🇵🇪 Perú
 
-<p align="left"> <a href="https://gh-trophy.cdnsoft.net"><img src="https://gh-trophy.cdnsoft.net/?username=cterryc&theme=monokai" /></a> </p>
+  <img src="https://img.shields.io/badge/🔍-Buscando%20oportunidades-brightgreen?style=for-the-badge" alt="status">
+  <img src="https://komarev.com/ghpvc/?username=cterryc&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="cterryc" />
+  
+</div>
 
-- 🔭Actualmente estoy en busca de una oportunidad laboral
+---
 
-- 🌱 Recientemente estoy aprendiendo **NestJS**
+## 👨‍💻 Sobre mí
 
-- 👨‍💻 Puedes ver todos mis poyectos en <a href="https://marteldev.com">https://marteldev.com</a>
+```yaml
+Nombre: Daniel Martel
+Ubicación: 🇵🇪 Perú
+Rol: Desarrollador Web Full Stack
+Pasión: Programación + Ensamblaje de PC
+Estado: 🔭 En busca de nuevas oportunidades
+```
 
-- 💬 Pregúntame sobre **Next.js, React.Js, Node.Js, Sequelize.Js, PostgreSQL, JavaScript, Express.js, Redux**
+> 💡 *"Transformando ideas en experiencias digitales excepcionales"*
 
-- 📫 Como contactarme **danyel.martel@gmail.com**
+---
 
-- 📄 Conoce mis experiencias <a href="https://rxresu.me/danyel.martel/cv-definitivo">C.V.</a>
+## 🌱 Actualmente
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/developer-martel" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+- 🎯 Aprendiendo **NestJS** para arquitecturas backend escalables
+- 🔧 Mejorando mis habilidades en **TypeScript** y patrones de diseño
+- 🚀 Construyendo proyectos con **Next.js 14** y **Server Actions**
+
+---
+
+## 💬 Pregúntame sobre
+
+<div align="center">
+  
+| Frontend | Backend | Base de Datos | Herramientas |
+|----------|---------|---------------|--------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
+</div>
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,postgres,sequelize,git,github,vscode,postman,bootstrap,tailwind,redux&theme=dark&perline=8" />
+  </a>
 </p>
 
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=cterryc&show_icons=true&theme=radical&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cterryc&layout=compact&theme=radical&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=0d1117)
+  
+  ![Streak Stats](https://streak-stats.demolab.com?user=cterryc&theme=radical&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🚀 Portafolio y Contacto
+
+<div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marteldev.com)
+  [![CV](https://img.shields.io/badge/📄_CV-2D7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rxresu.me/danyel.martel/cv-definitivo)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-martel)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyel.martel@gmail.com)
+
+</div>
+
+---
+
+## 🎯 Enfoque Profesional
+
+```mermaid
+graph LR
+    A[Ideas] --> B[Desarrollo]
+    B --> C[Calidad]
+    C --> D[Resultados]
+    D --> E[Clientes Felices]
+    
+    style A fill:#79ff97,stroke:#333
+    style E fill:#79ff97,stroke:#333
+```
+
+> ✨ **Mi filosofía**: Código limpio, UX intuitiva y soluciones que generan impacto real.
+
+---
+
+<div align="center">
+  
+  ### 🎮 Bonus: PC Building Enthusiast
+  
+  ![PC Components](https://forthebadge.com/images/badges/built-with-love.svg)
+  ![Hardware](https://forthebadge.com/images/badges/made-with-javascript.svg)
+  
+  > "Así como optimizo hardware para máximo rendimiento, optimizo código para máxima eficiencia" 💻⚡
+
+</div>
+
+---
+
+<p align="center">
+  <sub>Hecho con ❤️ y mucho café ☕ por <strong>Daniel Martel</strong></sub><br>
+  <sup>© 2024 - Todos los derechos reservados</sup>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats-two-wine-66.vercel.app/api/top-langs?username=cterryc&show_icons=true&locale=en&layout=compact" alt="cterryc" /></p>
-
-<p>&nbsp;<img align="center" src="https://lencx-stats.vercel.app/api?username=cterryc&show_icons=true&locale=en" alt="cterryc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cterryc&" alt="cterryc" /></p>
