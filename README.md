@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cterryc&label=Profile%20views&color=0e75b6&style=flat" alt="cterryc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cterryc" alt="cterryc" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy-fork-two.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=cterryc" alt="cterryc" /></a> </p>
 
 - 🔭Actualmente estoy en busca de una oportunidad laboral
 
