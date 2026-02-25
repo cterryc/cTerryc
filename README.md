@@ -62,7 +62,7 @@ Estado: 🔭 En busca de nuevas oportunidades
 
 <div align="center">
   
-  ![Stats](https://lencx-stats.vercel.app/api?username=cterryc&show_icons=true&theme=radical&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117)
+  ![Stats](https://github-readme-stats-fast.vercel.app/api?username=cterryc&show_icons=true&theme=radical&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117)
   
   ![Top Langs](https://github-readme-stats-two-wine-66.vercel.app/api/top-langs/?username=cterryc&layout=compact&theme=radical&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=0d1117)
   
